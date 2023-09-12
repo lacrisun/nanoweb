@@ -5,7 +5,7 @@ export default function HubungiBody() {
         <div className="hero min-h-screen bg-neutral">
             <div className="hero-content flex-col lg:flex-row-reverse">
                 <div className="card flex-shrink-0 w-full max-w-sm shadow-2xl bg-primary">
-                    <form action="mailto:divadevanidee@gmail.com" method="post" encType="text/plain" className="card-body">
+                    <form action="mailto:gustipanji2006@gmail.com" method="post" encType="text/plain" className="card-body">
                         <div className="form-control">
                             <label className="label">
                                 <span className="label-text">Nama Lengkap</span>
