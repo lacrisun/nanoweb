@@ -8,7 +8,7 @@ export default function Body() {
                 <div className="max-w-md">
                     <h1 className="mb-5 text-5xl font-bold">Desain dengan mudah.</h1>
                     <p className="mb-5">Kami hadir untuk membantu bisnis Anda dalam mencapai kesuksesan online. Hubungi kami dan mulailah perjalanan bisnis digital Anda.</p>
-                    <button className="btn btn-primary">Hubungi Kami</button>
+                    <Link href="/hubungi"><button className="btn btn-primary">Hubungi Kami</button></Link>
                 </div>
             </div>
         </div>
