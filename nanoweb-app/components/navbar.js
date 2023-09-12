@@ -41,7 +41,7 @@ export default function Navbar() {
             {/* Sidebar content here */}
             <li><Link href="/" className="hover:bg-neutral"><i><FontAwesomeIcon icon={faHouse}></FontAwesomeIcon></i>Tentang</Link></li>
             <li><Link href="/" className="hover:bg-neutral"><i><FontAwesomeIcon icon={faCodepen}></FontAwesomeIcon></i>Layanan</Link></li>
-            <li><Link href="/" className="hover:bg-neutral"><i><FontAwesomeIcon icon={faPhone} /></i>Hubungi</Link></li>
+            <li><Link href="/hubungi" className="hover:bg-neutral"><i><FontAwesomeIcon icon={faPhone} /></i>Hubungi</Link></li>
             </ul>
             
         </div>
